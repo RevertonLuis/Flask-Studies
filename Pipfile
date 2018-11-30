@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 mysql-python = "*"
 flask-sqlalchemy = "*"
+flask-login = "*"
+flask-migrate = "*"
 
 [requires]
 python_version = "2.7"
